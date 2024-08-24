@@ -346,3 +346,7 @@ input[type="submit"] {
     width: 80%;
   }
 }
+.contraste {
+  opacity: 30;
+  color: black;
+}
